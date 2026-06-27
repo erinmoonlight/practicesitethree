@@ -122,7 +122,7 @@ input, select, textarea {
 	}
 
 		h1 a strong, h2 a strong, h3 a strong, h4 a strong, h5 a strong, h6 a strong {
-			color: #333;
+			color: #093b09;
 		}
 
 	h2 {
@@ -131,11 +131,11 @@ input, select, textarea {
 	}
 
 		h2.alt {
-			color: #888;
+			color: #093b09;
 		}
 
 			h2.alt strong {
-				color: #666;
+				color: #093b09;
 			}
 
 	h3 {
@@ -156,7 +156,7 @@ input, select, textarea {
 
 	strong, b {
 		font-weight: 300;
-		color: #666;
+		color: #093b09;
 	}
 
 	em, i {
@@ -1852,7 +1852,7 @@ input, select, textarea {
 		border: 0;
 		outline: 0;
 		background: #e5fbe5;
-		background: rgba(255, 255, 255, 0.75);
+		background: #e5fbe5;
 		width: 100%;
 		border-radius: 0.35em;
 		padding: 0.75em 1em 0.75em 1em;
@@ -1912,7 +1912,7 @@ input, select, textarea {
 	}
 
 		table tbody tr:nth-child(2n+2) {
-			background: #f4f4f4;
+			background: #4169e1;
 		}
 
 		table td {
@@ -2046,7 +2046,7 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #222629 url("images/overlay.png");
+		background: #222629 url("background.jpg");
 		box-shadow: inset -0.25em 0 0.25em 0 rgba(0, 0, 0, 0.1);
 		color: #fff;
 		height: 100%;
@@ -2137,7 +2137,7 @@ input, select, textarea {
 			#nav ul li a {
 				display: block;
 				padding: 0.5em 1.5em 0.5em 1.5em;
-				color: rgba(255, 255, 255, 0.5);
+				color: #062a06;
 				text-decoration: none;
 				outline: 0;
 				border: 0;
